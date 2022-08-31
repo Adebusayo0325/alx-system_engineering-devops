@@ -1,1 +1,2 @@
-list of your current directory
+#!/bin/bash
+ls
